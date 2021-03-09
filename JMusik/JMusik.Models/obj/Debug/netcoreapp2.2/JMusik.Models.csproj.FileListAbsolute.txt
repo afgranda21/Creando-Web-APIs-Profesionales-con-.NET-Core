@@ -1,0 +1,17 @@
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.deps.json
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csprojAssemblyReference.cache
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfoInputs.cache
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfo.cs
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csproj.CoreCompileInputs.cache
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.dll
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.pdb
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.deps.json
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfoInputs.cache
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfo.cs
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csproj.CoreCompileInputs.cache
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.dll
+D:\Cursos\CursosNET\Creando Web APIs Profesionales con .NET Core\Proyecto\ProyectoUNO\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.pdb
